@@ -1,6 +1,5 @@
-# mechanic_search
-
-A new Flutter project.
+# Mechanic Appointment System
+The mobile app developed is an Online Mechanic Appointment System created using the Flutter framework and powered by Firebase for data management. This app was designed to make it easier for users to find and book appointments with mechanics for vehicle maintenance and repair.
 
 ## Getting Started
 
